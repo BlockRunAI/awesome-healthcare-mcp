@@ -19,7 +19,7 @@ A curated list of MCP (Model Context Protocol) servers for healthcare, medical, 
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) | Healthcare interoperability | Free | ![GitHub stars](https://img.shields.io/github/stars/wso2/fhir-mcp-server?style=flat) |
+| [FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) | Healthcare interoperability via FHIR | Free | ![GitHub stars](https://img.shields.io/github/stars/wso2/fhir-mcp-server?style=flat) |
 
 ---
 
