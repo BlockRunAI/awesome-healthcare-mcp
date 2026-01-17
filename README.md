@@ -12,6 +12,7 @@ A curated list of MCP (Model Context Protocol) servers for healthcare, medical, 
 
 - [Medical Data Standards](#medical-data-standards)
 - [Wearables & Devices](#wearables--devices)
+- [Community Contributions](#community-contributions) 🆕
 
 ---
 
@@ -28,6 +29,18 @@ A curated list of MCP (Model Context Protocol) servers for healthcare, medical, 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Apple Health MCP Server](https://github.com/the-momentum/apple-health-mcp-server) | Apple Health data analytics | Free | ![GitHub stars](https://img.shields.io/github/stars/the-momentum/apple-health-mcp-server?style=flat) |
+
+---
+
+## Community Contributions
+
+> 🙏 Thanks to these contributors who submitted their MCP servers!
+
+### Bioinformatics
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | Spatial transcriptomics analysis | Free | ![stars](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat) | *[@cafferychen777](https://github.com/cafferychen777)* |
 
 ---
 
