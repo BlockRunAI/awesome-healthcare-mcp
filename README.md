@@ -41,6 +41,7 @@ A curated list of MCP (Model Context Protocol) servers for healthcare, medical, 
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | Spatial transcriptomics analysis | Free | ![stars](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat) | *[@cafferychen777](https://github.com/cafferychen777)* |
+| [onekgpd-mcp](https://github.com/de-grave/onekgpd-mcp) | 1000 Genomes Project dataset | Free | ![stars](https://img.shields.io/github/stars/de-grave/onekgpd-mcp?style=flat) | *[@de-grave](https://github.com/de-grave)* |
 
 ---
 
