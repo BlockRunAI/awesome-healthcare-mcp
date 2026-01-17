@@ -40,6 +40,7 @@ A curated list of MCP (Model Context Protocol) servers for healthcare, medical, 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [FHIR MCP](https://github.com/hl7/fhir-mcp) | HL7 FHIR resources | Free | ![GitHub stars](https://img.shields.io/github/stars/hl7/fhir-mcp?style=flat) |
+| [FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) | Healthcare interoperability | Free | ![GitHub stars](https://img.shields.io/github/stars/wso2/fhir-mcp-server?style=flat) |
 | [SNOMED CT MCP](https://github.com/snomed/mcp-server) | Clinical terminology | Requires license | ![GitHub stars](https://img.shields.io/github/stars/snomed/mcp-server?style=flat) |
 | [ICD-10 MCP](https://github.com/who/icd-mcp) | Diagnosis codes | Free | ![GitHub stars](https://img.shields.io/github/stars/who/icd-mcp?style=flat) |
 | [LOINC MCP](https://github.com/loinc/mcp-server) | Lab observation codes | Free | ![GitHub stars](https://img.shields.io/github/stars/loinc/mcp-server?style=flat) |
@@ -114,6 +115,7 @@ A curated list of MCP (Model Context Protocol) servers for healthcare, medical, 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Apple HealthKit MCP](https://github.com/apple/healthkit-mcp) | Apple Health data | Free | ![GitHub stars](https://img.shields.io/github/stars/apple/healthkit-mcp?style=flat) |
+| [Apple Health MCP Server](https://github.com/the-momentum/apple-health-mcp-server) | Apple Health data analytics | Free | ![GitHub stars](https://img.shields.io/github/stars/the-momentum/apple-health-mcp-server?style=flat) |
 | [Google Fit MCP](https://github.com/google/fit-mcp) | Google Fit data | Free | ![GitHub stars](https://img.shields.io/github/stars/google/fit-mcp?style=flat) |
 | [Fitbit MCP](https://github.com/fitbit/mcp-server) | Fitbit health data | Requires account | ![GitHub stars](https://img.shields.io/github/stars/fitbit/mcp-server?style=flat) |
 | [Withings MCP](https://github.com/withings/mcp-server) | Withings devices | Requires account | ![GitHub stars](https://img.shields.io/github/stars/withings/mcp-server?style=flat) |
