@@ -25,6 +25,7 @@ A curated list of MCP (Model Context Protocol) servers for healthcare, medical, 
 |------|-------------|---------|-------|
 | [FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) | Healthcare interoperability via FHIR | Free | ![GitHub stars](https://img.shields.io/github/stars/wso2/fhir-mcp-server?style=flat) |
 | [MCP FHIR](https://github.com/flexpa/mcp-fhir) | TypeScript FHIR server access | Free | ![GitHub stars](https://img.shields.io/github/stars/flexpa/mcp-fhir?style=flat) |
+| [OMOPHub MCP](https://github.com/OMOPHub/omophub-mcp) | OHDSI OMOP vocabularies: SNOMED, ICD-10, RxNorm, LOINC | Freemium | ![GitHub stars](https://img.shields.io/github/stars/OMOPHub/omophub-mcp?style=flat) |
 
 ---
 
