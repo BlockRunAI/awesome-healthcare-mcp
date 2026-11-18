@@ -33,6 +33,7 @@ A curated list of MCP (Model Context Protocol) servers for healthcare, medical, 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [PubMed MCP](https://github.com/andybrandt/mcp-simple-pubmed) | Search PubMed medical papers | Free | ![GitHub stars](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=flat) |
+| [RegDataLab](https://github.com/medley/fda-data-mcp) | Public FDA inspections, 483s, warning letters, and recalls | Freemium | ![GitHub stars](https://img.shields.io/github/stars/medley/fda-data-mcp?style=flat) |
 | [ClinicalTrials MCP](https://github.com/JackKuo666/ClinicalTrials-MCP-Server) | ClinicalTrials.gov data access | Free | ![GitHub stars](https://img.shields.io/github/stars/JackKuo666/ClinicalTrials-MCP-Server?style=flat) |
 | [Healthcare MCP](https://github.com/Cicatriiz/healthcare-mcp-public) | FDA, PubMed, medRxiv, ICD-10, DICOM | Free | ![GitHub stars](https://img.shields.io/github/stars/Cicatriiz/healthcare-mcp-public?style=flat) |
 | [PopHIVE MCP](https://github.com/Cicatriiz/pophive-mcp-server) | Yale PopHIVE real-time health data | Free | ![GitHub stars](https://img.shields.io/github/stars/Cicatriiz/pophive-mcp-server?style=flat) |
